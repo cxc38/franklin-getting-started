@@ -3,7 +3,10 @@ Your project's description...
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.hlx.page/
+- https://main--franklin-getting-started--charles-x-chen.hlx.page/
+  
 - Live: https://main--{repo}--{owner}.hlx.live/
+- https://main--franklin-getting-started--charles-x-chen.hlx.live/
 
 ## Installation
 
