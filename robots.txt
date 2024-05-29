@@ -1,0 +1,5 @@
+user-agent: *
+allow: /
+
+sitemap: https://main--uxp-cp-eds--cxc38.hlx.page/sitemap-index.xml
+sitemap: https://main--uxp-cp-eds--cxc38.hlx.live/sitemap-index.xml
